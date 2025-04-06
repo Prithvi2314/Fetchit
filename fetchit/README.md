@@ -30,5 +30,5 @@ Fetch_Papers is a Python-based tool that allows users to quickly search for biom
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/Prithvi2314/Fetchit.git
 cd fetch_papers
